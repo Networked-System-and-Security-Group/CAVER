@@ -6,9 +6,6 @@ This project contains the simulation and programmable-switch prototypes for our 
 
 CAVER is a congestion-aware load-balancing scheme for RDMA networks. It uses ACK packets to propagate path-congestion information through a vector-based protocol, allowing source ToR switches to discover less-congested paths in real time. Each flow is forwarded along a selected source-routed path to avoid packet reordering and routing oscillation.
 
-- **Paper:** [CAVER: Enhancing RDMA Load Balancing by Hunting Less-Congested Paths](https://doi.org/10.1145/3672202.3673729)
-- **NS-3 simulator:** [CAVER-LB/CAVER-ns3](https://github.com/CAVER-LB/CAVER-ns3)
-- **P4 prototype:** [CAVER-LB/CAVER-P4](https://github.com/CAVER-LB/CAVER-P4)
 
 ## Key Features
 
