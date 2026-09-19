@@ -1,6 +1,6 @@
 # CAVER: Enhancing RDMA Load Balancing by Hunting Less-Congested Paths
 
-![CAVER topology](./overview.png)
+![CAVER topology](./CAVERoverview.png)
 
 This project contains the simulation and programmable-switch prototypes for our ACM SIGCOMM 2024 Posters and Demos paper, **CAVER: Enhancing RDMA Load Balancing by Hunting Less-Congested Paths**.
 
